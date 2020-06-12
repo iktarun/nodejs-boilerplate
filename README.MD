@@ -1,6 +1,6 @@
-# empty-project
+# node+express
 
-Empty project.
+basic boilerplate for any node+express project
 
 ## Building and running on localhost
 
